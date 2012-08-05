@@ -1,0 +1,1 @@
+--Assume uniform distribution: 1200/7
